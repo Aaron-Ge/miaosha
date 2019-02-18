@@ -1,5 +1,4 @@
-# miaosha1
-慕课网上的Springboot基础电商秒杀后台
+# Springboot基础电商秒杀后台
 相关的框架包的static文件可以去网址下载
 地址:https://www.imooc.com/learn/1079
 本课程中将带领大家，通过使用SpringBoot快速搭建前后端分离的电商基础秒杀项目。
